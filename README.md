@@ -1,5 +1,5 @@
-#👋Welcome  
-##✏️Studying  
+# 👋Welcome  
+## ✏️Studying  
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-996600?style=flat&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Framework-76FF03?style=flat&logo=Spring&logoColor=000000"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MyBatis-D1180B?style=flat&logoColor=FFFFFF"/></a>
@@ -15,7 +15,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/BootStrap-6200EA?style=flat&logo=Bootstrap&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000033?style=flat&logo=GitHub&logoColor=FFFFFF"/></a>
 
-##📜Certification  
+## 📜Certification  
 SQLD - 취득일 : 2023.10.06  
 
 <!---
