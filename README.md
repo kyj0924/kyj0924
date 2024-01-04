@@ -1,6 +1,6 @@
 #👋Welcome
 ##✏️Studying
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java?style=flat&logo=appveyor&logoColor=CCFF90"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Java-CCFF90?style=flat&logo=appveyor&logoColor=CCFF90"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Spring Framework?style=flat&logo=appveyor&logoColor=CCFF90"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/MyBatis?style=flat&logo=appveyor&logoColor=CCFF90"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Maven?style=flat&logo=appveyor&logoColor=CCFF90"/></a>
