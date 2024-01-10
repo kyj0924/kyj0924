@@ -18,6 +18,15 @@
 ## 📜Certification  
 SQLD - 취득일 : 2023.10.06  
 
+## 💻Project
+[보드게임 카페 관리, 운영 및 커뮤니티 웹](https://github.com/kyj0924/kingofthehill_Project)  
+[가상의 회사 사이트 만들기](https://github.com/kyj0924/HTMLTeamProject)  
+
+## Solved
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeongmae)](https://solved.ac/yeongmae)
+
+
 <!---
 kyj0924/kyj0924 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
