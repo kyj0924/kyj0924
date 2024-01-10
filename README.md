@@ -14,7 +14,7 @@
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/Ajax-CCFF99?style=flat&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/BootStrap-6200EA?style=flat&logo=Bootstrap&logoColor=FFFFFF"/></a>
 <a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000033?style=flat&logo=GitHub&logoColor=FFFFFF"/></a>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/GitHub-000033?style=flat&logo=apachetomcat&logoColor=FFFFFF"/></a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/ApacheTomcat-000033?style=flat&logo=apachetomcat&logoColor=FFFFFF"/></a>
 
 ## 📜Certification  
 SQLD - 취득일 : 2023.10.06  
